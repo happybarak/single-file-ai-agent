@@ -1,4 +1,4 @@
-Single-File AI Agent Tutorial
+    Single-File AI Agent Tutorial
 Build a complete AI agent in 218 lines of Python. No frameworks, no complexity. Just clean code that shows exactly how agents work.
 
 This tutorial demonstrates a working agent that can read, write, and edit files through natural conversation with Claude. Everything runs from a single Python file using uv's inline dependencies: no virtual environments, no pip installs, no dependency conflicts.
