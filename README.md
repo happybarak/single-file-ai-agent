@@ -45,5 +45,3 @@ Run the agent:
 uv run main.py
 The agent leverages uv's inline dependencies handling from the script headers, so no manual dependency installation is needed.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
